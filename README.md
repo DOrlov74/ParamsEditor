@@ -1,4 +1,4 @@
-# My Landing Page
+# Parameter Editor App
 
 Simple showcase application,
 was made with [Create React App](https://github.com/facebook/create-react-app).
